@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+wordcloud
+scikit-learn
+psutil
+tensorflow
+pyarrow
+fsspec
+huggingface_hub
